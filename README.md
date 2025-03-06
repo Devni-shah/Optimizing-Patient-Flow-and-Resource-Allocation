@@ -3,13 +3,13 @@
 ---
 
 
-##Introduction
+## Introduction
 
 In the fast-paced environment of urgent-care clinics, managing patient flow efficiently is critical for ensuring high-quality care and patient satisfaction. This report presents a comprehensive simulation study aimed at replicating real-world patient care dynamics within an urgent-care setting. By modeling various aspects of patient flow—from registration and triage to physician treatment and check-out—the project seeks to identify operational bottlenecks and optimize resource allocation. In addition, the study examines the effects of integrating critical patient management protocols and EMS arrivals into the clinic's workflow. The insights gained offer valuable guidance for healthcare administrators in balancing operational efficiency with cost constraints.
 
 ---
 
-##Methodology
+## Methodology
 
 ### Simulation Model Development
 - **Model A – Standard Patient Flow:**  
